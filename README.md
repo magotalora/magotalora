@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Miguel Ángel García Otalora, although my friends call me Migue, I have a background in communications and always was
 - 👀 interested in technology and how can we use it to make the world a better place. Which inspired me to go for a career shift and
-- 🗺️ move to Denmark in 2021. I live in a little town named Esbjerg, where most of the wind turbines in Europe are made. I’m currently
-- 🌱 studying a BSc in Applied Industrial Electronics in Aalborg University, and this semester we are
-- 🦾 working on a Home Securiy System (combining a Raspberry Pi 4, a fingerprint reader, an electronic lock and a camera).
+- 🗺️ move to Denmark in 2021. I live in a little town named Esbjerg, where most of the wind turbines the North Sea are made. I’m currently
+- 🌱 studying a BSc in Applied Industrial Electronics in Aalborg University, and this semester we are working on a
+- 🦾 proof-of-concept for an Autonomous Underwater Vehicle for Offshore Transportation of materials and tools
 - ✨ I would like to collaborate in projects involving hardware, especially in projects involving audio.
 - 📫 Hit me at hola@magotalora.xyz or connect with me on [LinkedIn](https://www.linkedin.com/in/magotalora)
