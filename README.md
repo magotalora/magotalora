@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Miguel Ángel García Otalora, my friends call me Migue. I have a background in communications and always had
 - 👀 interest in technology and how to make the world a better place with it. Which inspired me to go for a career shift and
-- 🗺️ move to Denmark in 2021. Now I live in a city name Esbjerg, where most of the wind turbines the North Sea are made. I’m 
+- 🗺️ move to Denmark in 2021. Now I live in a city named Esbjerg, a strategic port for green energy in the North Sea. I’m 
 - 🌱 studying a BSc in Applied Industrial Electronics in Aalborg University, and in this second semester we are working on a
 - 🦾 proof-of-concept for an Autonomous Underwater Vehicle (AUV) for Offshore Transportation of materials and tools
 - ✨ I would like to collaborate in projects involving hardware, especially in anything involving audio.
